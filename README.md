@@ -1,5 +1,18 @@
+---
+
+
+<h2 align="center">
+  Welcome to Amlan Deb Nath's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=solarized-dark&center=true&vCenter=true&lines=Passionate;Enthusiast"><br>
+  </p>
+</h2>
+
+
+---
 # 💫 About Me:
-#Currently I am just an Explorer and an Enthusiast in Ml , Robotics & Electromechanics .<br>#BTW I'm Amlan . Currently I am doing Bachelor of Engineering In BUET , majoring Mechanical Engineering .<br><br>/*     I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.<br><br>      I enjoy implementing my knowledge and skill into a working Prototype  with like minded peers .<br><br>      Always excited to learn something new and techy. <br>*/
+#Currently I am just an Explorer and an Enthusiast in Ml , Robotics & Electromechanics .<br>#BTW I'm Amlan . Currently I am doing Bachelor of Engineering In BUET , majoring Mechanical Engineering .<br><br>    I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.<br><br>      I enjoy implementing my knowledge and skill into a working Prototype with like minded peers .<br><br>      Always excited to learn something new and techy. <br>
 
 
 ## 🌐 Socials:
